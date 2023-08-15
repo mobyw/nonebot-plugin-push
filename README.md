@@ -6,11 +6,11 @@
 
 _✨ 消息推送插件 ✨_
 
-</div>
-
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/nonebot-plugin-push)
 ![PyPI](https://img.shields.io/pypi/v/nonebot-plugin-push)
 ![GitHub](https://img.shields.io/github/license/mobyw/nonebot-plugin-push)
+
+</div>
 
 ## 简介
 
